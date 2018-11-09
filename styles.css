@@ -1,0 +1,16 @@
+html, body{
+    background-color: #222;
+    color:#51cdff;
+    margin:0;
+    padding:0;
+}
+h1{
+    color:#4ce64c;
+}
+a{
+    color:#ff6c00;
+}
+#content{
+    margin:0 10%;
+    text-align:center;
+}
