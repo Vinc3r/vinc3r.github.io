@@ -1,14 +1,14 @@
 html, body{
     background-color: #222;
-    color:#51cdff;
+    color:white;
     margin:0;
     padding:0;
 }
 h1{
-    color:#4ce64c;
+    color:white;
 }
 a{
-    color:#ff6c00;
+    color:white;
 }
 #content{
     margin:0 10%;
